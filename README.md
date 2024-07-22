@@ -23,18 +23,24 @@ When the application is successfully opened and running, users will be prompted 
 
 
 2. Select **New Job (5)** to add a new job.
-![New Job](./screenshots/screen-2.jpg)
+<p align="center">
+  <img src="./screenshots/screen-2.jpg" alt="Landing Page" style="width:25%;">
+</p>
     > When done click (8) Save Button OR (7) Cancel to go back to Home without saving
 
 3. Setting
     > This is where user can change weights of each information for comparison and scoring purpose
 
-![Setting](./screenshots/screen-3.jpg)
+<p align="center">
+  <img src="./screenshots/screen-3.jpg" alt="Landing Page" style="width:25%;">
+</p>
 
 4. Comparison
     > If you want to compare two jobs. click "Compare"(2) on top of the screen. Then select two jobs to compare.
     > Once two jobs are selected, click "Done" to see the Job comparison table
-    ![Comparison Table](./screenshots/screen-5.jpg)
+    <p align="center">
+  <img src="./screenshots/screen-5.jpg" alt="Landing Page" style="width:25%;">
+    </p>
 
 
 ## Known Bug(s)
