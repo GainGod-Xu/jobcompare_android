@@ -9,7 +9,9 @@
 
 1. The **JobCompare6300** is an intuitive application allowing for the comparison of a user's **current job** with **potential jobs** based on various factors including **location, cost of living, yearly salary, retirement benefits amongst others**.
 When the application is successfully opened and running, users will be prompted with Application Landing Page.
-<img align='center' src="./screenshots/screen-1.jpg" alt="Landing Page" style="width:25%;">
+<p align="center">
+  <img src="./screenshots/screen-1.jpg" alt="Landing Page" style="width:25%;">
+</p>
 
 1) Job Card - This displays a brief summary of Job
 2) Begin "Compare" process of two jobs
