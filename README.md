@@ -7,7 +7,7 @@
 
 ## Instruction
 
-1. The **JobCompare6300** is an intuitive application allowing for the comparison of a user's **current job** with **potential jobs** based on various factors including **location, cost of living, yearly salary, retirement benefits amongst others**.
+1. The **JobCompare** is an intuitive application allowing for the comparison of a user's **current job** with **potential jobs** based on various factors including **location, cost of living, yearly salary, retirement benefits amongst others**.
 When the application is successfully opened and running, users will be prompted with Application Landing Page.
 <p align="center">
   <img src="./screenshots/screen-1.jpg" alt="Landing Page" style="width:25%;">
