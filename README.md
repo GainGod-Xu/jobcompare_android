@@ -38,9 +38,10 @@ When the application is successfully opened and running, users will be prompted 
 4. Comparison
     > If you want to compare two jobs. click "Compare"(2) on top of the screen. Then select two jobs to compare.
     > Once two jobs are selected, click "Done" to see the Job comparison table
-    <p align="center">
+   
+<p align="center">
   <img src="./screenshots/screen-5.jpg" alt="Landing Page" style="width:25%;">
-    </p>
+</p>
 
 
 ## Known Bug(s)
